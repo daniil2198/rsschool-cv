@@ -1,2 +1,3 @@
 # rsschool-cv
-It's the first day of my learning at the RS School
+https://daniil2198.github.io/rsschool-cv/cv
+
