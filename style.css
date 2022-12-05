@@ -1,0 +1,25 @@
+/* Небольшое обнуление стилей */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+html,
+body {
+  box-sizing: border-box;
+}
+
+/* Настройка базовых стилей */
+body {
+  font-family: 'Cabin', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  /* color: #ffffff; */
+}
+
+/* Стилизация */
